@@ -64,10 +64,10 @@ You need steady nerves to drive in city traffic.  在市内开车需要沉着冷
 a steady voice/look/gaze  冷静的声音／表情／目光  
 go steady on sth  节省着用  
 steady on!  别那么极端！ 
----
+   
 v   [ T ]  /ˈsted.i/  使稳定； 使固定不动  , 使）冷静  
 a drink will steady your nerves  喝杯酒能稳定情绪  
----
+   
 steadily  adv  
 Prices have risen steadily.  物价持续上涨。 
 She returned his gaze steadily. 她镇定地跟他对视。 
@@ -75,26 +75,26 @@ She returned his gaze steadily. 她镇定地跟他对视。
 46.include  verb [ T ]   /ɪnˈkluːd/   包含； 包括  
 Tax and service are included in the bill.  税款和服务费包括在账单中  
 Your responsibilities will include making appointments on my behalf.  你的职责包括替我安排预约。 
----
+   
 inclusion  n  /ɪnˈkluː.ʒən/   [ C or U ]   
 把…包括（在内）  包容  
 one's inclusion of multiple viewpoints  它包括了不同的视点  
----
+   
 inclusive  adj   /ɪnˈkluː.sɪv/  
 包括一切的  包括首尾两天（或两个数字）的  可以包容各种人的  
 My rent is $700 a month inclusive (of bills).  我的租金是每月700美元全包。 
 from 20 to 31 May inclusive  20日（含）至31日（含）  
 more inclusive society  更具包容性的社会  
----
+   
 opp. exclude  v  [ T ]  /ɪkˈskluːd/  
 阻止…进入； 把…排斥在外  不包括  不考虑…  
 Women are still excluded from the club.  这家俱乐部仍然把女性拒之门外。 
 Tom has been excluded from school (= he is not allowed to go to school) for bad behaviour.  汤姆因为行为不端被学校开除了。 
 We can't exclude the possibility that he is dead.  我们不能排除他已经死亡的可能性。 
----
+   
 exclusion  n  [ C or U ]  排斥； 排除在外  
 do something to the exclusion of something else  无暇顾及（别的事情）  
----
+   
 exclusive  adj  /ɪkˈskluː.sɪv/  专用的， 专有的； 独有的， 独占的  高档的； 豪华的     n. 独家新闻
 for the exclusive use of guests  专供客人使用的  
 an exclusive interview  独家采访  
@@ -102,7 +102,7 @@ an exclusive part of town  城镇的高档住宅区
 exclusive of sth  不包括； 排除…在外  
 mutually exclusive  相互排斥的； 互不相容的  
 exclusivity  排他性； 排外性； 专有权  
----
+   
 exclusively  adv  仅仅； 专门； 单独  
 This offer is available exclusively to our established customers.  只有本店老客户才能享受这一优惠价。 
 
@@ -110,13 +110,13 @@ This offer is available exclusively to our established customers.  只有本店�
 抵抗； 反抗； 反对  阻力  
 There's a lot of resistance (= opposition) to the idea of a united Europe.  很多人反对欧洲大一统的想法。 
 take the path of least resistance  采用最简便的方法  
----
+   
 resist  v  /rɪˈzɪst/  [ T ]  
 反抗； 回击； 抵抗  忍住； 拒受…的影响  
 The party leader resisted demands for his resignation.  该党领导人拒不答应他辞职的要求。 
 She couldn't resist laughing at him in those clothes.  看到他那副穿戴， 她忍不住大笑起来。 
 I can never resist temptation/chocolate/the urge to laugh.  我向来无法抗拒诱惑／我永远不可能抵挡巧克力的诱惑／我要是想笑， 怎么也忍不住。 
----
+   
 resistant  adj  /rɪˈzɪs.tənt/  
 抵制的， 阻止的， 抗拒的  对…有抵抗能力的  
 Why are you so resistant to change?  你为什么会如此强烈地抵制变革？ 
@@ -126,27 +126,27 @@ a disease-resistant variety of tomato  抗病害的西红柿品种
 首要的， 主要的； 基本的  一流的  
 a prime source of evidence  证据的主要来源  
 in a prime location in the city centre  位于市中心的黄金地段  
----
+   
 noun [ S ]  全盛时期； 盛年， 壮年时期  
 this cheese is past its prime  这块奶酪已经不那么新鲜了  
 Middle age can be the prime of life  中年会是人一生中的全盛时期  
 in her prime  正值巅峰时期  
----
+   
 v  [ T ]  使有所准备  
 I'd been primed so I knew not to mention her son.  因为事先得到提醒， 所以我知道不要提及她的儿子。 
----
+   
 prime mover  noun [ C usually singular ]  
 He is a prime mover in developing a new style of customer-friendly bookshops  他对英国新式顾客友好型书店的发展起了很大的推动作用  
----
+   
 primer  n  /ˈpraɪ.mər/  底漆  入门书  
 
 49.derive  v  /dɪˈraɪv/  取得； 起源  
 derive sth from sth  从…中得到， 从…中获得  
 be derived from sth  来自于， 源自 
----
+   
 derivation  noun [ C or U ]  /ˌder.ɪˈveɪ.ʃən/   
 起源， 出处； 衍生物， 派生物  
----
+   
 derivative  adj  
 缺乏独创性的； 模仿的  
 
